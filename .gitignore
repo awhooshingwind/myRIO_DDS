@@ -1,0 +1,77 @@
+# General
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.pyd
+*.whl
+*.manifest
+*.spec
+*.log
+
+# Environments
+.env
+.venv
+ENV/
+env/
+venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+.history
+
+# Emacs
+*~
+\#*\#
+.\#*
+auto-save-list
+tramp
+.ido.last
+projectile-bookmarks.eld
+bookmark
+
+# LabVIEW
+*.aliases
+*.lvlps
+*.lvproj
+*.lvlibp
+*.lvclass
+*.lvsc
+*.lvtest
+*.lvlib
+*.lvmodel
+*.lvpalette
+*.lvconfig
+*.lvstate
+*.lvr
+
+# LabVIEW: Ignore build output folders and user-specific files
+builds/
+dist/
+*.lvuser
+*.lvusext
+*.lvaddin
+*.lvlive
+*.lvaddinmeta
+*.lvscmeta
+*.lvclassmeta
+*.lvlibmeta
+
+# Ignore system files and logs
+*.log
+*.bak
+*.swp
+*.tmp
+*.old
