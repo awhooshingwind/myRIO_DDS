@@ -133,4 +133,4 @@ def lab_freq(freq, channel=0):
     return led_bits(seq)
 
 #test
-lab_freq(1000,3)
+lab_freq(2000,3)
